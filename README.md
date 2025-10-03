@@ -1,6 +1,6 @@
 # Browser Fingerprinting & User Identification Project
 
-This repository contains machine learning projects focused on browser fingerprinting & neural networks.
+This repository contains a machine learning project focused on browser fingerprinting & neural networks.
 
 ## Project (Where's Waldo?)
 
